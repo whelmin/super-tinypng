@@ -1,6 +1,6 @@
 {
   "name": "super-tinypng",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tinypng without \"Too many files uploaded at once\" limit",
   "main": "index.js",
   "bin": {
